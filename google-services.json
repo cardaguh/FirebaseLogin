@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78086495615",
+    "firebase_url": "https://fir-login-f17f2.firebaseio.com",
+    "project_id": "fir-login-f17f2",
+    "storage_bucket": "fir-login-f17f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78086495615:android:573f4858f99eb1b3da0e4a",
+        "android_client_info": {
+          "package_name": "com.cyclopsapps.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78086495615-bn1i9t9nj1b4kfalgoe4vlgdeks5j12t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmsIhEVzduQVJqNoYyXCCcyUvHZIEaQBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78086495615-bn1i9t9nj1b4kfalgoe4vlgdeks5j12t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
