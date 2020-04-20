@@ -19,8 +19,8 @@ import static androidx.test.espresso.matcher.ViewMatchers.withText;
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 public class LogueoCorrecto {
-    public static final String STRING_TO_BE_TYPED = "prueba@gmail.com";
-    public static final String STRING_TO_BE_TYPED2 = "prueba123";
+    public static final String STRING_TO_BE_TYPED = "pruebacalidad@gmail.com";
+    public static final String STRING_TO_BE_TYPED2 = "prueba12345";
 
     @Rule
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);

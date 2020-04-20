@@ -13,6 +13,7 @@ public class HomeActivity extends AppCompatActivity {
     Button btnLogout;
     FirebaseAuth firebaseAuth;
     private FirebaseAuth.AuthStateListener authStateListener;
+    String nombre = "123";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
